@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fonts>
+    <font id="DateCinzel" filename="date_cinzel.fnt" />
+    <font id="SubNumber" filename="sub_number.fnt" />
+</fonts>
